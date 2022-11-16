@@ -1,1 +1,1 @@
-# clean code sample repository
+# clean code example repository
